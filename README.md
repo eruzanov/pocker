@@ -1,1 +1,1 @@
-# pocker
+# scrum-poker
